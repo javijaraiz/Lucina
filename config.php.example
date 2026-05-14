@@ -1,0 +1,12 @@
+<?php
+// Copia este archivo como config.php y rellena los datos reales
+return [
+    'host'           => 'localhost',
+    'dbname'         => 'lucina_db',
+    'username'       => 'root',
+    'password'       => '',
+    // Obtén tu clave en Google AI Studio (https://aistudio.google.com/)
+    // Se recomienda usar la versión facturada (Pay-as-you-go) ya que la gratuita suele dar problemas de cuota/límites.
+    'gemini_api_key' => 'TU_API_KEY_DE_GOOGLE_AI_STUDIO',
+];
+

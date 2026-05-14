@@ -1,0 +1,23 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Configuración de IDEs
+.vscode/
+.idea/
+
+# XAMPP / PHP específicos
+php_error_log
+*.log
+
+# No subir credenciales
+config.php
+
+# No subir archivos de prueba o datos de usuario
+archivos/*.pdf
+*.docx
+Facturas Prueba Lucina/
+!archivos/.gitkeep
+
+# No subir presentación
+PRESENTACIÓN/
