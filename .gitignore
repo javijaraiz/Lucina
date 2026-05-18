@@ -16,7 +16,6 @@ config.php
 # No subir archivos de prueba o datos de usuario
 archivos/*.pdf
 *.docx
-Facturas Prueba Lucina/
 !archivos/.gitkeep
 
 # No subir presentación
